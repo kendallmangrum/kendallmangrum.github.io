@@ -1,0 +1,81 @@
+/* natural box model */
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+/* Browser Upgrade Prompt */
+.browserupgrade {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+/* hides an element, but not from screen readers */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
+/* no break */
+.nobr {
+    white-space: nowrap;
+}
+
+
+
+/* Structure */
+#navigation {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+
+#nav-left {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+}
+
+#nav-right {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+    padding-right: 25px;
+}
+
+#nav-logo {
+    width: 300px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 15px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+nav .pages:hover {
+    transition: 1s;
+    background-color: lightgray;
+    color: black;
+}
+
