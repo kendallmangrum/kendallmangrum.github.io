@@ -35,6 +35,11 @@ html {
 
 
 /* Structure */
+body {
+    font-family: 'Merriweather Sans', sans-serif;
+    background-color: black;
+}
+
 #navigation {
     background-color: black;
     display: flex;
@@ -79,3 +84,79 @@ nav .pages:hover {
     color: black;
 }
 
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.left-div {
+    width: 50%;
+    text-align: center;
+    background-color: #EBEBEB;
+    padding: 15px;
+}
+
+.right-div {
+    width: 50%;
+    text-align: center;
+    background-color: #EBEBEB;
+}
+
+.para {
+    text-align: left;
+    line-height: 1.50em;
+}
+
+
+
+.kendall-pic {
+    width: 100%;
+    
+}
+
+#cover-image {
+    /* background-image: url("../images/kendall.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    min-height: 800px; */
+}
+
+#footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
+
+
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    #navigation {
+
+    }
+
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+}
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
