@@ -89,19 +89,57 @@ nav .pages:hover {
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-around;
+    background-color: #EBEBEB;
+}
+
+#index-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #EBEBEB;
+    text-align: center;
+    min-height: 570px;
+    /* margin: 0 auto; */
+}
+
+#index-container-resume {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #EBEBEB;
+    text-align: center;
+    min-height: 950px;
+    /* margin: 0 auto; */
+}
+
+#home-intro {
+    padding-top: 10%;
+}
+
+.custom-h1 {
+    font-size: 64px;
+    color: crimson;
+    /* padding-bottom: 40px; */
+}
+
+.custom-h2 {
+    font-size: 48px;
 }
 
 .left-div {
     width: 50%;
     text-align: center;
-    background-color: #EBEBEB;
+    /* background-color: #EBEBEB; */
     padding: 15px;
 }
 
 .right-div {
     width: 50%;
     text-align: center;
-    background-color: #EBEBEB;
+    /* background-color: #EBEBEB; */
+    padding: 15px;
 }
 
 .para {
@@ -113,6 +151,7 @@ nav .pages:hover {
 
 .kendall-pic {
     width: 100%;
+    border: 2px solid black;
     
 }
 
@@ -129,6 +168,11 @@ nav .pages:hover {
     background-color: black;
     color: white;
 
+}
+
+.icon {
+    padding: 1%;
+    color: crimson;
 }
 
 
