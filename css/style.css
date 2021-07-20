@@ -175,6 +175,25 @@ nav .pages:hover {
     color: crimson;
 }
 
+.no-link {
+    text-decoration: none;
+    color: crimson;
+}
+
+.no-link:hover {
+    font-size: 105%;
+    transition: .25s;
+}
+
+.clean-link {
+    text-decoration: none;
+    color: blue;
+}
+
+.pad-below {
+    padding-bottom: 5%;
+}
+
 
 
 
