@@ -237,13 +237,17 @@ nav .pages:hover {
     .embedded-resume {
         width: 100%;
     }
+    
+    #index-container-resume {
+        width: 100%;
+    }
 
 }
 
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-    .index-container-resume {
+    #index-container-resume {
         width: 100%;
     }
     .embedded-resume {
