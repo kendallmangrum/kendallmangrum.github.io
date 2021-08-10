@@ -1,16 +1,22 @@
-const notelist = [
+const noteList = [
     {
         id: '0',
         name: 'Welcome to my Notepad!',
-        content: '',
-        date: 'July 22nd, 2021', 
-        signature: '- Kendall'
+        date: 'August 10, 2021',
+        preview: 'What is this website? What is going to be published here? Why should I take the time to read anything that this Kendall guy writes? ',
+        content: '', 
+        catchphrase: '',
+        signature: '- Kendall',
+        page: 'Introduction'
     },
     {
         id: '1',
         name: '',
-        content: '',
         date: '',
-        signature: '- Kendall'
+        preview: '',
+        content: '',
+        catchphrase: '',
+        signature: '- Kendall',
+        page: ''
     }
 ]

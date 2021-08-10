@@ -103,3 +103,65 @@ nav .pages:hover {
     padding: 1%;
     color: crimson;
 }
+
+figure {
+    position: relative;
+    z-index: 0;
+
+}
+
+figcaption {
+    z-index: 1;
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    text-align: center;
+    width: 80%;
+    font-size: 170%;
+    font-family: 'Kalam', cursive;
+    padding-top: 1%;
+}
+
+.note-title {
+    font-size: 130%;
+}
+
+.note-date {
+    padding-bottom: 8%;
+    display: inline-block;
+}
+
+.notepad {
+    margin: 0 auto;
+    background-image: url(../images/blankpaper.png);
+    background-size: cover;
+    min-height: 500px;
+    width: 80%;
+}
+
+#notepad-container {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.notepad-figure {
+    margin: 0 auto;
+    width: 100%;
+    padding-top: 20%;
+}
+
+
+
+.notepad-image {
+    width: 80%;
+}
+
+
+/* #notes-container {
+    background-image: url('../images/blankpaper.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 1000px;
+    width: 60%;
+    margin: 0 auto;
+} */
