@@ -34,8 +34,12 @@
         </div>
     </nav>
 
-    <div>
-        
+    <div id="index-container">
+        <div id="home-intro">
+            <h2 class="custom-h2">Hello, welcome to </h2>
+            <h1 id="typeWriter" class="custom-h1"></h1>
+            <!-- <h3>Welcome to my website!</h3> -->
+        </div>
     </div>
 
 
@@ -43,10 +47,29 @@
     <div id="footer">
         <h3>Connect with me!</h3>
         <a href="mailto:klmangrum17@gmail.com"><i class="far fa-envelope fa-2x icon"></i></a>
-				<!-- <a href="https://twitter.com/kmangrum3"><i class="fab fa-twitter fa-2x"></i></a> -->
+				<a href="https://twitter.com/kmangrum3"><i class="fab fa-twitter fa-2x icon"></i></a>
 				<a href="https://www.instagram.com/kendall_mangrum/"><i class="fab fa-instagram fa-2x icon"></i></a>
-				<a href="https://www.linkedin.com/in/kendall-mangrum-a91203157/"><i class="fab fa-linkedin-in fa-2x icon"></i></a>
+				<!-- <a href="https://www.linkedin.com/in/kendall-mangrum-a91203157/"><i class="fab fa-linkedin-in fa-2x icon"></i></a> -->
         <p>Copyright Kendall Mangrum &copy; 2021</p>
     </div>
 </body>
+
+<script>
+    var i = 0;
+    var txt = `Kendall's Notepad!`;
+    var speed = 200;
+    
+    function typeWriter() {
+      if (i < txt.length) {
+        document.getElementById("typeWriter").innerHTML += txt.charAt(i);
+        i++;
+        setTimeout(typeWriter, speed);
+      }
+    }
+    </script>
+
+    <script>
+        typeWriter();
+    </script>
+
 </html>

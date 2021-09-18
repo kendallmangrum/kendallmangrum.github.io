@@ -2,8 +2,8 @@ const noteList = [
     {
         id: '0',
         name: 'Welcome to my Notepad!',
-        date: 'August 10, 2021',
-        preview: 'What is this website? What is going to be published here? Why should I take the time to read anything that this Kendall guy writes? ',
+        date: 'September 18, 2021',
+        preview: 'What is this website? What is going to be published here? Find out here!',
         content: `Hello there! If you are reading this currently, that means that I finally took some time and "completed" at least a decent portion of this website
         so that I am comfortable with people seeing it. Since I don't know who all might find this page, let me introduce myself a little. My name is Kendall Mangrum, 
         I am from Shelby County, and I am a graduate of Indiana Univesrity with a BS in Informatics and minors in Computer Science and Public Health. I am sure you are 

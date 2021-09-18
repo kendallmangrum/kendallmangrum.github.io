@@ -84,12 +84,40 @@ nav .pages:hover {
     color: black;
 }
 
+#index-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #EBEBEB;
+    text-align: center;
+    min-height: 570px;
+    /* margin: 0 auto; */
+}
+
+#home-intro {
+    padding-top: 10%;
+}
+
+.custom-h1 {
+    font-size: 64px;
+    color: crimson;
+    /* padding-bottom: 40px; */
+}
+
+.custom-h2 {
+    font-size: 48px;
+}
+
+
 #container {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-around;
     background-color: #EBEBEB;
+    /* width: 80%; */
+    margin: 0 auto;
 }
 
 #footer {
@@ -132,11 +160,9 @@ figcaption {
 
 .notepad {
     margin: 0 auto;
-    /* background-image: url(../images/blankpaper.png);
-    background-size: cover; */
-    /* min-height: 100%; */
     width: 80%;
-    padding-bottom: 50%;
+    line-height: 1.5em;
+    
 }
 
 #notepad-container {
@@ -145,41 +171,67 @@ figcaption {
     width: 100%;
 }
 
-.notepad-figure {
-    margin: 0 auto;
-    width: 100%;
-    padding-top: 20%;
-}
-
-.notepad figcaption {
-    background-image: url(../images/blankpaper.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    /* background-size: 100%; */
-    /* width: 100%; */
-    /* padding-top: 50%; */
-}
-
 .notepad h3 {
     margin-bottom: 0%;
-    margin-top: 10%;
+    margin-top: 5%;
 }
 
 .notepad .date {
     margin-bottom: 0%;
 }
 
-
+.notepad .signature {
+    font-family: 'Kalam', cursive;
+}
 
 span #content {
     text-align: justify;
 }
 
-/* #notes-container {
-    background-image: url('../images/blankpaper.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 1000px;
-    width: 60%;
-    margin: 0 auto;
-} */
+
+/* ABOUT PAGE */
+
+.left-div {
+    width: 50%;
+    text-align: center;
+    /* background-color: #EBEBEB; */
+    padding: 15px;
+}
+
+.right-div {
+    width: 50%;
+    text-align: center;
+    /* background-color: #EBEBEB; */
+    padding: 15px;
+}
+
+.para {
+    text-align: left;
+    line-height: 1.50em;
+}
+
+
+
+.kendall-pic {
+    width: 100%;
+    border: 2px solid black;
+    
+}
+
+
+@media (max-width: 1000px) {
+
+    .left-div {
+        width: 100%;
+        text-align: center;
+        /* background-color: #EBEBEB; */
+        padding: 15px;
+    }
+
+    .right-div {
+        width: 100%;
+        text-align: center;
+        /* background-color: #EBEBEB; */
+        padding: 15px;
+    }
+}
