@@ -165,6 +165,10 @@ figcaption {
     
 }
 
+.note:hover {
+    cursor: pointer;
+}
+
 #notepad-container {
     margin: 0 auto;
     /* min-height: 1500px; */
