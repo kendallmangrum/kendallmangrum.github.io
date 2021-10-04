@@ -16,7 +16,7 @@ const noteList = [
         that I really enjoy. I always love when people share good music, so I hope that I can provide some good suggestions for you. Other than that, I'm not sure what all I 
         might include here; only time will tell. Anyways, thanks for taking some time out of your day to read this post and check out my site! If you have any suggestions on
         things for me to write about, let me know!`, 
-        catchphrase: 'Hope you enjoyed your time inside my mind.',
+        catchphrase: 'Hope you enjoyed your time inside my mind,',
         signature: '- Kendall',
         page: 'introduction'
     },
@@ -53,8 +53,28 @@ const noteList = [
         me to nod my head and get pumped up a bit. It also follows the trick of being a short song so that you have to replay the song to make you feel like you got your full fill. As you could infer from the title
         this song is not family friendly for several reasons, but as the kids say nowadays "this song slaps".
         `,
-        catchphrase: 'Hope you have enjoyed your time inside my mind.',
+        catchphrase: 'Hope you have enjoyed your time inside my mind,',
         signature: '- Kendall',
         page: 'august-september-songs'
+    },
+    {
+        id: '2',
+        name: 'Compliments',
+        date: 'October 3, 2021',
+        preview: 'Why you should give compliments and the impact they can have on someone!',
+        content: `I wish people gave each other compliments more often. Compliments can completely change the trajectory of a person's day or even week, and I fully believe this to be true because it has done so 
+        for me. These compliments aren't even usually anything to sophisticated. Most commonly they are about the outfit that I was wearing and that I "looked nice." Although this might not sound like anything
+        that might really have an effect on a person's life, trust me it can and does. For example, this past week the weather got a lot cooler for a couple of days so I decided to wear a more fall oriented outfit to work.
+        Since the beginning of summer, just about everday I had been wearing some form of shorts and a polo or T-shirt. However, with the cooler weather I decided to wear a long sleeve button up shirt and some 
+        skinny khaki pants. On my way to the back of the store to clock in for the day one of my coworkers told me that I looked nice. This compliment helped to set the tone of my day and more as I continue to 
+        think about it. To further showcase the impact a simple compliment can have, I still remember one that I received from a girl my junior year of college, now a couple years ago. The girl was someone that I
+        held office hours with and she complimented my purple flannel shirt that I had just gotten. I had already liked the shirt, but after that it became one of my favorites. Since then, the shirt has gotten a few
+        more compliments and made my day on each occasion. Knowing the power of compliments, I have started to try and be someone that compliments others. Usually after doing so the person smiles and looks happy, but
+        hopefully I am able to have just as big of an effect on them as others have on me. So please, be kind and try giving out some compliments to others. You never know how big an impact something so simple can 
+        make in someone's life.  
+        `,
+        catchphrase: 'Hope you have enjoyed your time inside my mind,',
+        signature: '- Kendall',
+        page: 'compliments'
     }
 ]

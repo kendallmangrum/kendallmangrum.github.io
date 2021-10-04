@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kendall's Notepad | About</title>
+    <title>Kendall's Notepad | Compliments</title>
 
     <!-- Stylesheets -->
     <link href="css/style.css" rel="stylesheet" type="text/css">
@@ -13,6 +13,9 @@
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kalam&display=swap" rel="stylesheet">
 
     <!-- Favicon -->
 	<link rel='shortcut icon' href='images/favicon.png' type='image/x-icon' />
@@ -20,11 +23,10 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <script src="https://use.fontawesome.com/aede6c6094.js"></script>
-
-
+    
 
 </head>
-<body>
+<body onload="loadSelectedNote()">
     <nav id="navigation">
         <div id="nav-left">
             <a href="index.html"><img src="images/logo_transparent_crop.png" alt="Kendall Personal Logo" id="nav-logo"></a>
@@ -37,28 +39,7 @@
     </nav>
 
     <div id="container">
-
-        <div class="left-div">
-            <h1>A Little Bit About Me</h1>
-            <p class="para">Hello there! My name is Kendall Mangrum and I'm from the rural area of Shelby County Indiana. I went to a small high school where everyone knows each other and their family.
-            </p>
-
-            <p class="para">
-                I graduated from the Luddy School of Informatics, Computing, and Engineering at Indiana University Bloomington in the spring of 2021 
-                with a B.S. in Informatics with minors with Computer Science and Public Health. While at IU, I was a member of the inaugural Luddy Living Learning Community, 
-                a member of the Hutton Honors College, and an Undergraduate Instructor for an introduction to computers and computing course. 
-            </p>
-
-            <p class="para">
-                I have had a wide array of interests and hobbies over the years. When I find some free time, I enjoy reading, biking, hiking, playing video games, hanging out with friends,
-                and being with family. 
-            </p>
-
-        </div>
-
-        <div class="right-div">
-            <img src="images/IU-216.jpg" alt="Kendall Mangrum" class="kendall-pic">
-        </div>
+        
         
     </div>
 
@@ -69,9 +50,10 @@
         <a href="mailto:klmangrum17@gmail.com"><i class="far fa-envelope fa-2x icon"></i></a>
 				<a href="https://twitter.com/kmangrum3"><i class="fab fa-twitter fa-2x icon"></i></a>
 				<a href="https://www.instagram.com/kendall_mangrum/"><i class="fab fa-instagram fa-2x icon"></i></a>
-				<a href="https://open.spotify.com/user/mangrumk3"><i class="fa fa-spotify fa-2x icon"></i></a>
-                <!-- <a href="https://www.linkedin.com/in/kendall-mangrum-a91203157/"><i class="fab fa-linkedin-in fa-2x icon"></i></a> -->
-        <p>Copyright Kendall Mangrum &copy; 2021</p>
+                <a href="https://open.spotify.com/user/mangrumk3"><i class="fa fa-spotify fa-2x icon"></i></a>
+                <p>Copyright Kendall Mangrum &copy; 2021</p>
     </div>
+    <script src="js/notes.js"></script>
+    <script src="js/insertnotes.js"></script>
 </body>
 </html>
