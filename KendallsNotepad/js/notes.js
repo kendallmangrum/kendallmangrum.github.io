@@ -59,14 +59,14 @@ const noteList = [
     },
     {
         id: '2',
-        name: 'Compliments',
+        name: 'Giving Compliments',
         date: 'October 3, 2021',
         preview: 'Why you should give compliments and the impact they can have on someone!',
         content: `I wish people gave each other compliments more often. Compliments can completely change the trajectory of a person's day or even week, and I fully believe this to be true because it has done so 
         for me. These compliments aren't even usually anything to sophisticated. Most commonly they are about the outfit that I was wearing and that I "looked nice." Although this might not sound like anything
         that might really have an effect on a person's life, trust me it can and does. For example, this past week the weather got a lot cooler for a couple of days so I decided to wear a more fall oriented outfit to work.
         Since the beginning of summer, just about everday I had been wearing some form of shorts and a polo or T-shirt. However, with the cooler weather I decided to wear a long sleeve button up shirt and some 
-        skinny khaki pants. On my way to the back of the store to clock in for the day one of my coworkers told me that I looked nice. This compliment helped to set the tone of my day and more as I continue to 
+        skinny khaki pants. On my way to the back of the store to clock in for the day one, of my coworkers told me that I looked nice. This compliment helped to set the tone of my day and more as I continue to 
         think about it. To further showcase the impact a simple compliment can have, I still remember one that I received from a girl my junior year of college, now a couple years ago. The girl was someone that I
         held office hours with and she complimented my purple flannel shirt that I had just gotten. I had already liked the shirt, but after that it became one of my favorites. Since then, the shirt has gotten a few
         more compliments and made my day on each occasion. Knowing the power of compliments, I have started to try and be someone that compliments others. Usually after doing so the person smiles and looks happy, but
@@ -76,5 +76,39 @@ const noteList = [
         catchphrase: 'Hope you have enjoyed your time inside my mind,',
         signature: '- Kendall',
         page: 'compliments'
+    },
+    {
+        id: '3',
+        name: 'Men Need Support Too',
+        date: 'November 5, 2021',
+        preview: `Men aren't as emotionless as they can be made out to be.`,
+        content: `After writing my 'note' about why people should give compliments more often, I wanted to further expand on the topic and discuss more about how compliments and other supportive actions can have such a 
+        major impact on men. Typically, men tend to try and portray themselves as being tough and not as effected by the words, thoughts, or actions of others. This isn't actually the case for a good proportion of males. 
+        Not to excuse the behvaior, but it is reasonable to believe that men displays themselves in this way because of the expectations that society have created for them. Men are supposed to be strong, tough, reasonable,
+        level-headed, and not be overwhelmed with emotions. These expectations I think have hurt men and their mental/emotional health as they don't always know how to properly manage or express their emotions, or 
+        how to receive support from others. Recently when I was taking my break at work, one of my coworkers asked me if I was okay because they and some of the other workers had noticed that I was acting a little 
+        differently than normal. Admittedly, at the time I was a little frustrated, but I told the coworker I was fine, not wanting to make a little frustration a big deal. Being asked if I was okay completely changed
+        my mood for the rest of my shift however, because I realized that my coworkers cared about me. It was a nice changed to be asked how I was doing, rather than being the person trying to provide support. 
+        <br><br>
+        Now, I just want to get some thoughts out of my head that I have been wanting to for a while but hadn't yet. While these things might be common knowledge to some, I want people to hear this coming directly from
+        a guy himself. 
+        <br>
+        <br>
+        &emsp; 1. If you compliment a guy, it is almost guaranteed that he is going to remember what you said for <i>years</i>. One of my friends and I often find overselves talking about this happening and will both recall
+        what someone said years ago because at the time it caught us off guard and totally made our day.
+        <br><br>
+        &emsp; 2. Guys seek validation and approval. We want to hear someone tell us that we are doing a good job, that someone is thankful for us, that we are appreciated. Otherwise, we begin to feel like we are failing or 
+        not doing enough. 
+        <br><br>
+        &emsp; 3. Guys aren't always used to people being really kind to them, so sometimes the kindness is mistaken for interest. If you think that a guy is experiencing this, please just let them know so that it saves
+        both sides from any further misunderstanding and/or awkwardness.
+        
+        <br><br>
+        
+        I kind of feel like I've been rambling a bit here, but I have just been wanting to get some of these things off of my mind for a while now. I could propbably go into more detail, but I'll save us both from that.
+        Anyways, thanks for 'listening' to me, if anyone actually finds and reads these things...`,
+        catchphrase: 'Hope you have enjoyed your time inside my mind,',
+        signature: '- Kendall',
+        page: 'mens-emotions'
     }
 ]
