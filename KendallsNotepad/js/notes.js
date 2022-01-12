@@ -84,7 +84,7 @@ const noteList = [
         preview: `Men aren't as emotionless as they can be made out to be.`,
         content: `After writing my 'note' about why people should give compliments more often, I wanted to further expand on the topic and discuss more about how compliments and other supportive actions can have such a 
         major impact on men. Typically, men tend to try and portray themselves as being tough and not as effected by the words, thoughts, or actions of others. This isn't actually the case for a good proportion of males. 
-        Not to excuse the behvaior, but it is reasonable to believe that men displays themselves in this way because of the expectations that society have created for them. Men are supposed to be strong, tough, reasonable,
+        Not to excuse the behavior, but it is reasonable to believe that men displays themselves in this way because of the expectations that society have created for them. Men are supposed to be strong, tough, reasonable,
         level-headed, and not be overwhelmed with emotions. These expectations I think have hurt men and their mental/emotional health as they don't always know how to properly manage or express their emotions, or 
         how to receive support from others. Recently when I was taking my break at work, one of my coworkers asked me if I was okay because they and some of the other workers had noticed that I was acting a little 
         differently than normal. Admittedly, at the time I was a little frustrated, but I told the coworker I was fine, not wanting to make a little frustration a big deal. Being asked if I was okay completely changed
@@ -110,5 +110,15 @@ const noteList = [
         catchphrase: 'Hope you have enjoyed your time inside my mind,',
         signature: '- Kendall',
         page: 'mens-emotions'
+    },
+    {
+        id: '4',
+        name: '',
+        date: '',
+        preview: ``,
+        content: ``,
+        catchphrase: 'Hope you have enjoyed your time inside my mind,',
+        signature: '- Kendall',
+        page: ''
     }
 ]
