@@ -113,12 +113,21 @@ const noteList = [
     },
     {
         id: '4',
-        name: '',
-        date: '',
-        preview: ``,
-        content: ``,
+        name: `If it's meant to be, it will be?`,
+        date: '2/28/22',
+        preview: `Is fate so strong, or is effort required as well?`,
+        content: `I have struggled with the idea that 'if it's meant to be, it will be' for quite a while now. People apply this way of thinking to numerous aspects of their lives, whether it
+        be them being selected for a new job, a certain event happening, or getting into a relationship. I tend to usually hear people use this saying when it is about them getting a job or 
+        into a relationship. However, I find issues with this way of thinking because it just seems too passive. There has to be a little bit more effort in acheiving something like a new
+        career path or a successful relationship. For example, I can talk to a girl regularly whether it be via text or in person, and more than likely the relationship isn't going to get
+        any more serious than that unless I do something more. If I want the relationship to go any further, I have to let the girl know how I feel and what I'm thinking, otherwise she might
+        just see the two of us as being good friends and me being someone she can talk to about anything. So while I see why believing 'if it's meant to be, it will be' can be tempting,
+        I think it is a more relaxed way to live; a way not to get your hopes too high. I think that a much more powerful way to live is to put effort into whatever it is you want to achieve.
+        If you want to get a new job, spend your time preparing yourself for the responsibilities that the job will require. If you want a successful serious relationship, you need to be open
+        with your significant other, let them know what you are thinking and how you are feeling, communicate with them, and provide them with the things that they need in order for the relationship
+        to be successful. Then if things don't work out, you know that you gave it your all, and things must not have been 'meant to be'. `,
         catchphrase: 'Hope you have enjoyed your time inside my mind,',
         signature: '- Kendall',
-        page: ''
+        page: 'meant-to-be'
     }
 ]
