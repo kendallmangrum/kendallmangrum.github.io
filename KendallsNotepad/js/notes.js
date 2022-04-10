@@ -113,7 +113,7 @@ const noteList = [
     },
     {
         id: '4',
-        name: `If it's meant to be, it will be?`,
+        name: `Meant to be, it will be?`,
         date: '2/28/22',
         preview: `Is fate so strong, or is effort required as well?`,
         content: `I have struggled with the idea that 'if it's meant to be, it will be' for quite a while now. People apply this way of thinking to numerous aspects of their lives, whether it
@@ -129,5 +129,117 @@ const noteList = [
         catchphrase: 'Hope you have enjoyed your time inside my mind,',
         signature: '- Kendall',
         page: 'meant-to-be'
+    },
+    {
+        id: '5',
+        name: `Old Poems Twitter Saw First`,
+        date: '4/10/22',
+        preview: `If you haven't seen them already, take a look at some of my old poems!`,
+        content: `<h3><u>My World</u></h3>
+                        
+                        In her eyes the galaxies were kept.<br>
+                        Whenever I looked into them I saw the twinkling of countless stars.<br>
+                        I often got lost in her eyes; their beauty so alluring.<br>
+                        <br>
+                        Her hair could be seen styled as the waves of the ocean,<br>
+                        Flowing gently from her head to just below the shoulders.<br>
+                        <br>
+                        Her smile glowed like the moon;<br>
+                        Even in the darkest of rooms its light still shined bright.<br>
+                        <br>
+                        Her soul was as free as the wind;<br>
+                        Nothing could contain her.<br>
+                        Her presence, or lack thereof, could always be felt.<br>
+                        <br>
+                        Her personality radiated from her like the sun.<br>
+                        She had a warmth about her that could comfort any anxiety.<br>
+                        <br>
+                        She meant the world to me. <br>
+                        When I held her in my arms I had everything I needed.<br>
+                        But just as the tide comes and goes,<br>
+                        So did she, and now I'm left without a world to call my own.<br>
+                        <br><br>
+
+                    <h3><u>Eternal Love</u></h3>
+                        You not loving me is a hard pill to swallow.<br>
+                        I thought maybe you'd change your mind, but you didn't and now I feel so hollow.<br>
+                        <br>
+                        I don't think that I've ever loved someone as much as I love you.<br>
+                        It doesn't matter though, it just got my heart torn in two.<br>
+                        <br>
+                        Turns out that you're just my type,<br>
+                        And I was down to be in a relationship feeling so hype.<br>
+                        <br>
+                        No one had ever made me feel the way you did.<br>
+                        Deeper and deeper in love I slid.<br>
+                        <br>
+                        In my mind I kept thinking that you were the one,<br>
+                        But before I knew it the idea of "us" was done.<br>
+                        <br>
+                        But you're still figuring things out.<br>
+                        A relationship with me at the time had you filled with doubt.<br>
+                        <br>
+                        I know I still have flaws but that's okay.<br>
+                        I'll eventually be with someone, today's just not that day.<br>
+                        <br>
+                        And who knows, maybe someday everything will come full circle,<br>
+                        And we'll end up together because my love for you is eternal.<br>
+                        <br><br>
+
+                    <h3><u>Good Things</u></h3>
+                        Life sure isn't a breeze<br>
+                        And not everything comes with ease<br>
+                        But good things are worth working for<br>
+                        Especially if you can enjoy them forever more<br>
+                        <br><br>
+
+                    <h3><u>My Own Worst Enemy</u></h3>
+                        My mind's my own worst enemy<br>
+                        It's always testing me<br>
+                        Trying to get the best of me.<br>
+                        <br>
+                        Constantly fighting it I need some rest.<br>
+                        Wishing I had help from someone else,<br>
+                        But this is a war I must end myself.<br>
+                        <br><br>
+
+                    <h3><u>Two Trunks</u></h3>
+                        We're like a tree that grew two trunks<br>
+                        Heading our own ways but forever connected
+                        <br><br>
+
+                    <h3><u>The Fall</u></h3>
+                        I've always been scared of falling,<br>
+                        And I should have been scared of falling for you.<br>
+                        Cause I fell so hard that I still haven't recovered,<br>
+                        But the fall sure felt good.<br>
+                        <br><br>
+
+                    <h3><u>More than Gold</u></h3>
+                        Head full of fears<br>
+                        Eyes wet with tears<br>
+                        Wishing someone would stay near<br>
+                        <br>
+                        No one gets things the way I do<br>
+                        Yeah I have friends but I'm a loner too<br>
+                        Isolated by myself like I'm part of a zoo<br>
+                        <br>
+                        I just want someone to love and to hold<br>
+                        Having someone for that would be worth more than gold<br>
+                        But here I am, all alone and cold.<br>
+                    `,
+        catchphrase: `Hope you have enjoyed your time inside my mind,`,
+        signature: '- Kendall',
+        page: 'old-poems'
+    },
+    {
+        id: '6',
+        name: ``,
+        date: '',
+        preview: ``,
+        content: ``,
+        catchphrase: 'Hope you have enjoyed your time inside my mind,',
+        signature: '- Kendall',
+        page: ''
     }
 ]
