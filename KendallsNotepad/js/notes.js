@@ -234,12 +234,20 @@ const noteList = [
     },
     {
         id: '6',
-        name: ``,
-        date: '',
-        preview: ``,
-        content: ``,
+        name: `Five Things You Might Not Know About Me`,
+        date: 'July 24th, 2022',
+        preview: `Enjoy some random facts about me that you might not know.`,
+        content: `1. I was a 10 year 4-H member. During my 4-H tenure, there were three main projects that I participated in. When I first started, I did Foods, Photography, and Scrapbooking. I did photography for only a few years because the last year I did it the judge said that they only way for me to score better was to get a better camera. I stopped doing scrapbooking around the same time because it took up such a large amount of time to complete and perfect. I participated in the foods project all 10 years and did quite well in it. 
+                <br>
+                2. I was the president for my class in high school. In order to be class president, all those wanting the position had to give a speech in front of the class. There were four of us who ran, and each of us would have been great choices for the position. I was able to acquire a slightly larger amount of votes than the other three, so I was elected to the position.
+                <br>
+                3. My right thumb is slightly shorter than my left one. This is due to me breaking my thumb at a soccer practice in eighth grade. At this specific practice we had gotten new balls to play with, so they were rather sticky to dribble. My cleat got stuck to the ball and I fell hard, my thumb landing in a hole. When I got up and looked, my thumb was a bit crooked. I held up my hand to show the coach and he thought I was doing a thumbs up to signal that I was fine. He was rather shocked with I walked up to him and he saw what had happened. 
+                <br>
+                4. I took swim lessons for several years at the Shelbyville pool. I feel like mentioning this as a fun fact because I did so well at the swim lessons that I got to skip level 3 and go to level 4, which was focused on learning each of the different stroke styles and was swam in the deep end. At one of the lessons, we were supposed to tread water for at least five minutes. I was so young and not quite strong enough that I started to sink, which felt like I was drowning at the time. I ended up having to repeat the level because I wasn't a strong enough swimmer yet. 
+                <br>
+                5. I played soccer for 12 years. I started playing rec soccer when I was in first grade through the Blue River Soccer Association in Shelbyville. I played rec soccer for several years before I eventually tried out for their travel soccer team around fourth or fifth grade. I ended up making the team and started out playing on defense even though I was used to playing forward or midfield during my time in rec. I quickly got moved back to midfield thanks to my speed and stamina. I played travel soccer for Blue River through my freshman year of high school, making some great friends and while being part of a very successful team. The Blue River team ended up splitting ways, so I joined the Columbus Express soccer team my sophomore year of high school, which ended up being my last season of travel. I also played junior high and high school soccer for my high school Southwestern, where our teams were also pretty successful. My senior year we finally got past our dreaded foes Greenwood Christian to win our Sectional on our home field. That was one of the best feelings I got to experience and something I won't soon forget. `,
         catchphrase: 'Hope you have enjoyed your time inside my mind,',
         signature: '- Kendall',
-        page: ''
+        page: 'kendall-fun-facts'
     }
 ]

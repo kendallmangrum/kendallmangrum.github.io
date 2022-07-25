@@ -80,7 +80,8 @@ nav a {
 
 nav .pages:hover {
     transition: 1s;
-    background-color: lightgray;
+    /* background-color: lightgray; */
+    background-color: rgba(161, 54, 52, 1);
     color: black;
 }
 
@@ -273,6 +274,39 @@ span #content {
     }
 }
 
+
+@media (max-width: 800px) {
+
+    .left-div {
+        width: 100%;
+        text-align: center;
+        /* background-color: #EBEBEB; */
+        padding: 15px;
+    }
+
+    .right-div {
+        width: 100%;
+        text-align: center;
+        /* background-color: #EBEBEB; */
+        padding: 15px;
+    }
+
+    figure img {
+        width: 95%;
+    }
+    
+    figcaption {
+        z-index: 1;
+        position: absolute;
+        top: 15%;
+        left: 10%;
+        text-align: center;
+        width: 80%;
+        font-size: 170%;
+        font-family: 'Kalam', cursive;
+        padding-top: 1%;
+    }
+}
 
 @media (max-width: 400px) {
     figure img {
