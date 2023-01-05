@@ -316,5 +316,25 @@ const noteList = [
         catchphrase: 'Hope you have enjoyed your time inside my mind,',
         signature: '- Kendall',
         page: 'learned-in-2022'
+    },
+    {
+        id: '9',
+        name: `A Quick Note`,
+        date: 'January 4th, 2023',
+        preview: `A quick thought dump for someone`,
+        content: `&nbsp;&nbsp; &nbsp;&nbsp; Hi there. I want to apologize in advance to anyone who reads this and is confused, which is pretty likely considering it is going to be a rather specific note... There's just some things I feel like I need/want to put out there, for better or for worse. I just want to be honest with you and with myself, and maybe because I just want to talk to you without forcing a response if you don't want.
+        <br><br>
+        For a brief moment I was torn on whether or not I should reach out like you wanted. I was constantly seeing TikTok videos about how you should really stick to no contact if you want to get over someone and overcome all of the sad emotions. I know that this is at least somewhat true because after the little bit of contact on Black Friday my emotions and mental regressed a little bit from where they had gotten after a month of silence, and honestly I don't want to get over you and what we can be. However, I was hopeful deep down that maybe you reaching out meant that things had gotten a little better, or that there was potential for me to return to your life in a way. Seeing that you still care/think about me reminded me a little of the past. Even though we weren't "talking" to each other in a traditional sense, seeing your picture with a colorful circle around it became a drug to me and I couldn't/can't get enough of it. 
+        <br><br>
+        This morning when I woke up I was shaking, my whole body just trembling because I knew I was going to see you, but didn't know how it was going to go. I only ate my sandwich for lunch because of my nerves, and felt queasy afterwards. My brain struggled to function at times during school, unable to focus at times. 
+        <br><br>
+        When I finally saw you, (almost) everything felt calm and relaxed. I'm sure you noticed my legs shaking and thought it was because of the cold, but that was just my body unable to contain whatever was going on inside. (Looking at my watch, it says my heart beat was 115 at approximately 5...) I had written a whole list of questions and a few things to say to you, but for the most part those fell to the side because I just wanted to hear you talk, to look at you and take in as much as I could because it had been so long and who knows how long it would be until the next time we meet. I could have stood there with you forever if you hadn't have needed to leave. 
+        <br><br>
+        My mind felt at ease on the drive home. Maybe it was overflowing with dopamine for the first time in a while, feeling like it did for those several months. Who knows if this feeling will last more than a night once my brain registers that, at least for now, this isn't able to be a consistent thing (I can't help but keep hoping and praying that we will find a way). Even if the pain and unwanted emotions come rushing back and I have to try and fight to overcome them again, I'm grateful I got to see you in person again and feel those old happy emotions I remember. All of the moments with you will always far outweigh any of the negative emotions I might experience while I can't be with you. There is just something about you; you're special to me. I will always be here for you, like I said I don't plan on going anywhere you can't find/reach me. I hope that today was good for you and that you feel the same sort of way. I will continue to hope that one day we can keep writing the book of us and eventually end it with a happily ever after. 
+        <br><br>
+        <a href="https://www.youtube.com/watch?v=40qV9vEofRs">If I Tremble<a>`,
+        catchphrase: 'Hope you have enjoyed your time inside my mind,',
+        signature: '- Kendall',
+        page: 'quick-note1'
     }
 ]
