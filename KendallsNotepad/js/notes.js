@@ -317,7 +317,7 @@ const noteList = [
         signature: '- Kendall',
         page: 'learned-in-2022'
     },
-    {
+    /*{
         id: '9',
         name: `A Quick Note`,
         date: 'January 4th, 2023',
@@ -336,5 +336,5 @@ const noteList = [
         catchphrase: 'Hope you have enjoyed your time inside my mind,',
         signature: '- Kendall',
         page: 'quick-note1'
-    }
+    }*/
 ]
